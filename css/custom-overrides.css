@@ -5,7 +5,7 @@
     background-color: #000000 !important;
 }
 .bg-yellow {
-    background-color: #fef605 !important;
+    background-color: #B6B09F !important;
 }
 
 .bg-light {
@@ -13,7 +13,7 @@
 }
 
 .btn-light {
-    background-color: #fef605 !important;
+    background-color: #B6B09F !important;
     color: #000000 !important;
 }
 
@@ -37,7 +37,7 @@
 
 /* Specific overrides for common inline styles */
 .btn-square[style*="width"] {
-    background-color: #fef605 !important;
+    background-color: #B6B09F !important;
     color: #000000 !important;
 }
 
@@ -49,12 +49,12 @@
 .feature-item {
     background-color: #000000 !important;
     color: #ffffff !important;
-    border: 1px solid #fef605 !important;
+    border: 1px solid #B6B09F !important;
 }
 
 /* Contact elements */
 iframe[style*="min-height"] {
-    border: 2px solid #fef605 !important;
+    border: 2px solid #B6B09F !important;
 }
 
 /* Service elements */
@@ -63,16 +63,16 @@ iframe[style*="min-height"] {
 }
 
 .service-title h3 {
-    color: #fef605 !important;
+    color: #B6B09F !important;
 }
 
 .feature-icon i {
-    color: #fef605 !important;
+    color: #B6B09F !important;
 }
 
 /* Navbar */
 .navbar-brand h1 {
-    color: #fef605 !important;
+    color: #B6B09F !important;
 }
 
 .dropdown-menu {
@@ -84,7 +84,7 @@ iframe[style*="min-height"] {
 }
 
 .dropdown-item:hover, .dropdown-item.active {
-    background-color: #fef605 !important;
+    background-color: #B6B09F !important;
     color: #000000 !important;
 }
 
@@ -103,13 +103,13 @@ textarea[style*="height"] {
 /* Testimonials section */
 .testimonial-text {
     background-color: #ffffff !important;
-    border: 1px solid #fef605 !important;
+    border: 1px solid #B6B09F !important;
     color: #ffffff !important;
 }
 
 /* Additional specific overrides for common components */
 .spinner-border {
-    border-color: #fef605 !important;
+    border-color: #B6B09F !important;
     border-right-color: transparent !important;
 }
 
@@ -121,7 +121,7 @@ textarea[style*="height"] {
 
 /* Pagination and breadcrumb */
 .breadcrumb-item a {
-    color: #fef605 !important;
+    color: #B6B09F !important;
 }
 
 /* Footer links */
@@ -135,7 +135,7 @@ textarea[style*="height"] {
 
 /* Hover effects */
 .nav-link:hover {
-    color: #fef605 !important;
+    color: #B6B09F !important;
 }
 
 /* Modal styling */
@@ -145,11 +145,11 @@ textarea[style*="height"] {
 }
 
 .modal-header {
-    border-bottom: 1px solid #fef605 !important;
+    border-bottom: 1px solid #B6B09F !important;
 }
 
 .modal-footer {
-    border-top: 1px solid #fef605 !important;
+    border-top: 1px solid #B6B09F !important;
 }
 
 /* Service items with specific height */
@@ -165,7 +165,7 @@ textarea[style*="height"] {
 
 /* Form inputs focus state */
 .form-control:focus {
-    border-color: #fef605 !important;
+    border-color: #B6B09F !important;
     box-shadow: 0 0 0 0.25rem rgba(254, 246, 5, 0.25) !important;
 }
 
@@ -173,7 +173,7 @@ textarea[style*="height"] {
 .btn-lg-square.rounded-circle[style*="width"] {
     width: 48px !important;
     height: 48px !important;
-    background-color: #fef605 !important;
+    background-color: #B6B09F !important;
 }
 
 .navbar {
@@ -182,7 +182,7 @@ textarea[style*="height"] {
 
 /* Fix text colors */
 .text-primary {
-    color: #fef605 !important;
+    color: #B6B09F !important;
 }
 
 .text-secondary {
@@ -204,7 +204,7 @@ p, span, h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-dark .btn {
-    background-color: #fef605 !important;
+    background-color: #B6B09F !important;
     color: #000000 !important;
 }
 
@@ -216,7 +216,7 @@ p, span, h1, h2, h3, h4, h5, h6 {
 
 /* Links in text */
 a {
-    color: #fef605 !important;
+    color: #B6B09F !important;
 }
 
 a:hover {
@@ -229,7 +229,7 @@ a:hover {
 }
 
 .footer .btn.btn-link:hover {
-    color: #fef605 !important;
+    color: #B6B09F !important;
 } 
 
 .bg-black {
